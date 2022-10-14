@@ -21,7 +21,7 @@ Have a look on my list of awesome places to enjoy quality time.
 
 # Project Link
 
-https://emoji-interpreter0.netlify.app/
+https://holiday-destination-places.netlify.app/
 
 <br/>
 <br/>
