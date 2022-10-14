@@ -99,7 +99,7 @@ export default class App extends React.Component {
                   backgroundColor: "rgb(237, 255, 255)"
                 }}
               >
-                <a href={month.link} target="_blank" style={{ fontSize: "larger" }}> {month.name} </a>
+                <a rel="noreferrer" href={month.link} target="_blank" style={{ fontSize: "larger" }}> {month.name} </a>
                 <div style={{ fontSize: "smaller" }}> {month.rating} </div>
               </li>
             </div>
