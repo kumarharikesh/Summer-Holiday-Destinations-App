@@ -13,7 +13,7 @@ const summerMonth = {
     { name: "1. Marrakech – Admire Bucolic Nature", rating: "4.3/5⭐", link: "https://traveltriangle.com/blog/places-to-visit-in-marrakech/" },
     { name: "2. Tahiti – A Sweeter Place", rating: "4/5⭐", link: "https://traveltriangle.com/blog/maldives-or-bora-bora-for-honeymoon/" },
     { name: "3. Pokhara – Get The Views Of Stunning Mountains", rating: "3.5/5⭐", link: "https://traveltriangle.com/blog/places-to-visit-in-pokhara/" },
-    { name: "3. Colorado – A Summer Paradise", rating: "3.5/5⭐", link: "https://traveltriangle.com/blog/places-to-visit-in-pokhara/" },
+    { name: "4. Colorado – A Summer Paradise", rating: "3.5/5⭐", link: "https://traveltriangle.com/blog/places-to-visit-in-pokhara/" },
   ],
 
   May: [
@@ -32,7 +32,7 @@ const summerMonth = {
   July: [
     { name: "1. Barcelona – All About Games & Nightlife", rating: "4.4/5⭐", link: "https://traveltriangle.com/blog/spanish-travel-words-and-phrases/" },
     { name: "2. Hamburg – Watch Lakes Dotted With Boats", rating: "4.3/5⭐", link: "https://traveltriangle.com/blog/best-places-to-visit-in-july-in-the-world/" },
-    { name: "Whistler – Traverse The Hiking Trails", rating: "3.5/5⭐", link: "https://traveltriangle.com/blog/most-romantic-mountain-getaways/" },
+    { name: "3. Whistler – Traverse The Hiking Trails", rating: "3.5/5⭐", link: "https://traveltriangle.com/blog/most-romantic-mountain-getaways/" },
   ]
 }
 
