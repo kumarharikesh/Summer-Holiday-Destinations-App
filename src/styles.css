@@ -112,7 +112,13 @@ flex-wrap: wrap;
   text-decoration: none;
   padding: 0.5rem 1rem;
 }
+
 /** Footers css **/
+
+* {
+  margin: 0;
+}
+
 .footer {
   background-color: #5e832d;
   padding: 2rem 1rem;
